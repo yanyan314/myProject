@@ -137,7 +137,7 @@ Switch to Debug view and click F5.
 ### Architecture
 
 * System context of pink content platform
-  ![System context of pink content platform](docs/design/content-pink-system-context.png)
+ 
 
 * Containers of pink content platform
   ![Containers of pink content platform](docs/design/content-pink-containers.png)
